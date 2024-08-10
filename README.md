@@ -4,5 +4,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=MDLZCOOL&show_icons=true)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,python,js,html,md)](https://skillicons.dev)
 
+[![My tools](https://skillicons.dev/icons?i=clion,pycharm,webstorm)](https://skillicons.dev)
+
+[![My tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
